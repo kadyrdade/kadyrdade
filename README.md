@@ -2,6 +2,7 @@
 
 # Kadyr Däde
 
+
 ## Skills:
 * 🐍 Python
 * 🧠 Learning CS, Cybersecurity and etc.
