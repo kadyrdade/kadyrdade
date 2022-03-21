@@ -1,4 +1,4 @@
-![](https://github.com/kadyrdade/kadyrdade/blob/main/banner.png)
+<img src='https://github.com/kadyrdade/kadyrdade/blob/main/banner.png' alt="banner"></img>
 
 # Kadyr Däde
 
